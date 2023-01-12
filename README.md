@@ -19,7 +19,7 @@ A basic widget for adding Space in between the child of  a Column/Row and all Re
 
 ## Getting started
 
-The Widget should on be used in a RenderFlex widget e.g Column/Row.
+The Widget should be used in a RenderFlex widget e.g Column/Row.
 
 ## Usage
 
