@@ -14,7 +14,7 @@ and the Flutter guide for
 A basic widget for adding Space in between the child of  a Column/Row and all RenderFlex widgets descendants.
 
 ## N.B:
-  I wrote this small package why learning how Flutter RenderObject works.
+  I wrote this small package why learning how Flutter RenderObject works. [reference](https://blog.logrocket.com/understanding-renderobjects-flutter) to followed tutorial, might help you get a hang of it.
 
 
 ## Getting started
@@ -26,10 +26,9 @@ The Widget should on be used in a RenderFlex widget e.g Column/Row.
 ```dart
   final someList = Column(children: 
   <Widget>[
-   Text("Some Text here"),
-   Gap(20)
-   Text("After some space text"),
-
+       Text("Some Text here"),
+       Gap(20)
+       Text("After some space text"),
    ],
   ) ;
 ```
