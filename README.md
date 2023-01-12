@@ -14,7 +14,7 @@ and the Flutter guide for
 A basic widget for adding Space in between the child of  a Column/Row and all RenderFlex widgets descendants.
 
 ## N.B:
-  I wrote this small package why learning how Flutter RenderObject works.
+  I wrote this small package while learning how Flutter RenderObject works.
 
 
 ## Getting started
